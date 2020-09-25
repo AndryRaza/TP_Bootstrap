@@ -1,0 +1,28 @@
+#nav_bar{
+    height:80px;
+}
+
+#bande_2{
+    background-image:url('bg_bande2.jpg');
+    background-size:cover;
+
+}
+
+#bande_3{
+    
+}
+
+#container{
+    height:900px;
+   
+}
+
+#voir{
+    border:2px solid red;
+}
+
+#footer{
+    background:url('footer_bg.jpg');
+    height:600px;
+    background-size: cover;
+}
