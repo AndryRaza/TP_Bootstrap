@@ -8,7 +8,6 @@
 
 }
 
-
 #container{
     height:900px;
    
@@ -16,7 +15,7 @@
 
 #footer{
     background:url('img/footer_bg.jpg');
-    height:600px;
+    height:400px;
     background-size: cover;
 }
 
