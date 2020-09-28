@@ -3,7 +3,7 @@
 }
 
 #bande_2{
-    background-image:url('bg_bande2.jpg');
+    background-image:url('img/bg_bande2.jpg');
     background-size:cover;
 
 }
@@ -19,7 +19,7 @@
 }
 
 #footer{
-    background:url('footer_bg.jpg');
+    background:url('img/footer_bg.jpg');
     height:600px;
     background-size: cover;
 }
